@@ -119,3 +119,7 @@ img {
 .hidden {
   display: none;
 }
+
+.winner {
+  background-color: rgba(0, 0, 0, 0.636);
+}
